@@ -1,3 +1,7 @@
+## See the blog post
+
+[No Fuss - Create a React Project](https://awstonehall.vercel.app/blog/post/react-getting-started-typescript)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
